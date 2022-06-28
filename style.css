@@ -2,6 +2,10 @@ li {
     text-decoration: none;
     list-style-type: none;
     line-height: 30px;
+    cursor: pointer;
+}
+li:hover {
+    text-decoration: overline;
 }
 .mar-100 {
     margin-top: 70px;
