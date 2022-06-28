@@ -1,5 +1,19 @@
+@media only screen and (max-width: 991px) {
+    #act {
+        background: none;
+        color: black;
+        margin-left: -20px;
+    }
+}
 @media only screen and (max-width: 767px) {
     #m-20 {
         margin-top: 40px;
     }
+    .hg img {
+        margin-bottom: 50px;
+    }
+    #top {
+        text-align: center;
+    }
+    
 }
