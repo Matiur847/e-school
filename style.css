@@ -151,3 +151,29 @@ p i {
     border-radius: 15px;
     box-shadow: 1px 1px 10px gainsboro;
 }
+.ph img {
+    height: 160px;
+}
+.dis-flx {
+    align-items: center;
+    display: flex;
+}
+.ph {
+    margin-left: 180px;
+}
+.pd {
+    align-items: center;
+    border: 4px solid black;
+}
+.mxx {
+    border: 3px solid black;
+    max-width: 1000px;
+}
+.hg img {
+    height: 150px;
+}
+.para p {
+    color: #000000;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
